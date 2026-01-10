@@ -8,9 +8,9 @@ def sum(a, b):
 # мой первый код
 print("моя первая программа =)")
 
-x = 5
+bukva_iks = 5
 y = 10
-total = sum(x, y)  # доступно
+total = sum(bukva_iks, y)  # доступно
 print("cумма:", total)
 
 # requests
