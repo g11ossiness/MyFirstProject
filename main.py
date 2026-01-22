@@ -1,9 +1,12 @@
-﻿# TODO: проверка на пустой ввод
+# TODO: проверка на пустой ввод
 # main.py
 import datetime
 import requests
+
+
 def sum(a, b):
     return a + b
+
 
 # мой первый код
 print("моя первая программа =)")
