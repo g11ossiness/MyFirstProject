@@ -1,6 +1,5 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: вопросы
     url: https://github.com/g110ssiness/MyFirstProject/discussions
     about: тут можете задать вопросы
-
